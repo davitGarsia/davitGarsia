@@ -6,6 +6,7 @@
 
 - ✨✨✨ 
 - Personal Projects: 
+- Ecommerce App with Angular: https://ecommerce-app-97c49.web.app/
 - Food delivery(Angular): https://food-delivery-236bc.web.app/
 - Angular Todo App: https://angular-todo-app-44431.web.app/
 - CV form and valdiation with Angular reactive forms: https://angular-form-validation-7ee94.web.app/
