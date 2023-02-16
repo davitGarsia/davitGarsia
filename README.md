@@ -9,8 +9,8 @@
 - Project Management App (Angular) [In Development]: https://github.com/davitGarsia/Task-Manager
 - User Management Page with Angular: https://user-management-app-69b24.web.app/
 - Ecommerce App with Angular: https://ecommerce-app-97c49.web.app/
-- Food delivery(Angular): https://food-delivery-236bc.web.app/
 - Angular Todo App: https://angular-todo-app-44431.web.app/
+- - Food delivery(Angular): https://food-delivery-236bc.web.app/
 - CV form and valdiation with Angular reactive forms: https://angular-form-validation-7ee94.web.app/
 - News app with Guardian live api(made with vanilla javaScript): https://statuesque-chaja-ab0b10.netlify.app/
 - Weather app with vanilla javaScript: https://davitgarsia.github.io/JavaScript-Weather-App/
