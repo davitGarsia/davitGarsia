@@ -6,6 +6,7 @@
 
 - ✨✨✨ 
 - Personal Projects: 
+- Project Management App (Angular) [In Development]: https://github.com/davitGarsia/Task-Manager
 - User Management Page with Angular: https://user-management-app-69b24.web.app/
 - Ecommerce App with Angular: https://ecommerce-app-97c49.web.app/
 - Food delivery(Angular): https://food-delivery-236bc.web.app/
