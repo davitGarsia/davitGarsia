@@ -6,7 +6,7 @@
 
 - ✨✨✨ 
 - Personal Projects: 
-- Project Management App (Angular): https://github.com/davitGarsia/Task-Manager/tree/finished; 
+- Project Management App (Angular): https://github.com/davitGarsia/Task-Manager/tree/finished; Deployed at: https://project-manager-c79a7.web.app/
 - User Management Page with Angular: https://user-management-app-69b24.web.app/
 - Ecommerce App with Angular: https://ecommerce-app-97c49.web.app/
 - Angular Todo App: https://angular-todo-app-44431.web.app/
