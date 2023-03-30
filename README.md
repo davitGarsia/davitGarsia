@@ -7,9 +7,9 @@
 - ✨✨✨ 
 - Personal Projects: 
 - Project Management App (Angular): https://github.com/davitGarsia/Task-Manager/tree/finished; Deployed at: https://project-manager-c79a7.web.app/
-- User Management Page with Angular: https://user-management-app-69b24.web.app/
-- Ecommerce App with Angular: https://ecommerce-app-97c49.web.app/
-- Angular Todo App: https://angular-todo-app-44431.web.app/
+- User Management Page with Angular: https://github.com/davitGarsia/User-Management-App; Deployed at: https://user-management-app-69b24.web.app/
+- Ecommerce App with Angular: https://github.com/davitGarsia/alte-ecommerce; deployed at: https://ecommerce-app-97c49.web.app/
+- Angular Todo App: https://github.com/davitGarsia/Angular-Todo-App; https://angular-todo-app-44431.web.app/
 - - Food delivery(Angular): https://food-delivery-236bc.web.app/
 - CV form and valdiation with Angular reactive forms: https://angular-form-validation-7ee94.web.app/
 - News app with Guardian live api(made with vanilla javaScript): https://statuesque-chaja-ab0b10.netlify.app/
