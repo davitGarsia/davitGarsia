@@ -6,7 +6,9 @@
 
 - ✨✨✨ 
 - Personal Projects: 
-- Project Management App (Angular): [View App](https://project-management-app-19bb8.web.app/);   [Source Code](https://github.com/davitGarsia/Task-Manager/tree/finished)
+- Project Management App (Angular)
+ ![Project Management App](https://user-images.githubusercontent.com/107862005/234253893-14e8e798-2b4d-4064-ac77-ad9dfbf226bf.jpg)
+  [View App](https://project-management-app-19bb8.web.app/);   [Source Code](https://github.com/davitGarsia/Task-Manager/tree/finished)
 - User Management Page with Angular: [Source Code](https://github.com/davitGarsia/User-Management-App); [View App](https://user-management-app-69b24.web.app/)
 - Ecommerce App with Angular: [Source Code](https://github.com/davitGarsia/alte-ecommerce); [View App](https://ecommerce-app-97c49.web.app/)
 - Angular Todo App: [Source Code](https://github.com/davitGarsia/Angular-Todo-App); [View App](https://angular-todo-app-44431.web.app/)
