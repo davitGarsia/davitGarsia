@@ -6,16 +6,15 @@
 
 
 <div display="flex">
-
-        <img src="https://user-images.githubusercontent.com/107862005/234524184-01099d2c-b839-4b6a-ab63-ee8c7304b736.png" width="40" height="40">
-        <img src="https://user-images.githubusercontent.com/107862005/234524240-14e57d53-ebeb-49b7-9e32-2b72906b400e.png" width="40" height="50">
-        <img src="https://user-images.githubusercontent.com/107862005/234524216-71a75027-1269-4271-8e31-2410da55c48e.png" width="40">
-        <img src="https://user-images.githubusercontent.com/107862005/234524214-adb8d13a-d783-429f-8a46-9dceabefd1da.png" width="40">
-        <img src="https://user-images.githubusercontent.com/107862005/234524236-8e3fe81b-55f8-4292-bf41-20bb229c1e8f.png" width="40" height="40">
-        <img src="https://user-images.githubusercontent.com/107862005/234524231-7bd79b72-a644-44e4-9808-76853dd4fd3c.png" width="40">
-        <img src="https://user-images.githubusercontent.com/107862005/234524221-b430852e-898f-4d2d-9029-9f9ef7e52bbd.png" width="50" height="45">
-        <img src="https://user-images.githubusercontent.com/107862005/234524208-61881d4b-fe08-4d41-b8cb-734a05ce57fe.png" width="40">
-        <img src="https://user-images.githubusercontent.com/107862005/234524204-6dd46ac8-4b33-4ded-9c48-f31002f589e0.svg" width="40">
+<img src="https://user-images.githubusercontent.com/107862005/234524184-01099d2c-b839-4b6a-ab63-ee8c7304b736.png" width="40" height="40">
+<img src="https://user-images.githubusercontent.com/107862005/234524240-14e57d53-ebeb-49b7-9e32-2b72906b400e.png" width="40" height="50">
+<img src="https://user-images.githubusercontent.com/107862005/234524216-71a75027-1269-4271-8e31-2410da55c48e.png" width="40">
+<img src="https://user-images.githubusercontent.com/107862005/234524214-adb8d13a-d783-429f-8a46-9dceabefd1da.png" width="40">
+<img src="https://user-images.githubusercontent.com/107862005/234524236-8e3fe81b-55f8-4292-bf41-20bb229c1e8f.png" width="40" height="40">
+<img src="https://user-images.githubusercontent.com/107862005/234524231-7bd79b72-a644-44e4-9808-76853dd4fd3c.png" width="40">
+<img src="https://user-images.githubusercontent.com/107862005/234524221-b430852e-898f-4d2d-9029-9f9ef7e52bbd.png" width="50" height="45">
+<img src="https://user-images.githubusercontent.com/107862005/234524208-61881d4b-fe08-4d41-b8cb-734a05ce57fe.png" width="40">
+<img src="https://user-images.githubusercontent.com/107862005/234524204-6dd46ac8-4b33-4ded-9c48-f31002f589e0.svg" width="40">
  </div>
 
 
