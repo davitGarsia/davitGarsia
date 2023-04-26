@@ -2,7 +2,7 @@
 - 👀 I’m a junior web developer
 - 🌱 I’m currently perfecting my knowledge in Angular.
 - ❤️ I would love to collaborate on Angular/JavaScript projects.
-- 📫 How to reach me:  davitgarsiashvili@gmail.com; Linkedin - https://www.linkedin.com/in/davit-garsiashvili-2b334819b/
+- 📫 How to reach me: [Email](davitgarsiashvili@gmail.com); [Linkedin](https://www.linkedin.com/in/davit-garsiashvili-2b334819b/)
 
 - ✨✨✨ 
 - Personal Projects: 
